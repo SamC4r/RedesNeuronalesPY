@@ -223,7 +223,7 @@ class Perceptron():
         print (colorama.Fore.WHITE +'\n')
         centradas = input('Conjunto de entradas: ')
         try:int(centradas)
-        except Exception as e:print (colorama.Fore.LIGHTYELLOW_EX+'Wachin, tenes que poner un numero bo\n\n'+e)
+        except Exception as e:print (colorama.Fore.LIGHTYELLOW_EX+'Wachin, tenes que poner un numero bo\n\n')
 
     
         for a in range(int(centradas)):
