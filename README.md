@@ -1,1 +1,5 @@
 # RedesNeuronalesPY
+
+
+
+git clone 
