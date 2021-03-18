@@ -44,7 +44,7 @@ En el código también hay un ejemplo de una función
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
-<br />
+
 [youtube]: https://www.youtube.com/channel/UCeW0S9_GBxk4jLFAlafStsw
 [discord]: https://discord.com/invite/DCzV7dFP64
 
