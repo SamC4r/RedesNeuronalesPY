@@ -16,13 +16,13 @@ Si lo ejecutas por primera vez es conveniente poner el siguiente comando:
 Para instalar los paquetes automáticamente
 
 > python3 multilayer_xor.py
-<br />
+
 Resuelve un problema xor
 En el código también hay un ejemplo de una función 
 *** sf(x) = x^3-x #normalizada ***
 
 - Se muestra la evoloución del aprendizaje
-<br />
+
 
 
 
@@ -36,7 +36,6 @@ En el código también hay un ejemplo de una función
 - 🥅 s
 - ⚡ s
 
-<br />
 ### Redes:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
