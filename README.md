@@ -7,7 +7,9 @@
 > git clone https://github.com/SamC4r/RedesNeuronalesPY.git
 
 > cd Redes Neuronales
+
 > cd archivo definitivo redes neuronales python
+
 > busca el archivo que se llama multilayer_xor.py
 
 Si lo ejecutas por primera vez es conveniente poner el siguiente comando:
