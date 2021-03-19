@@ -8,6 +8,7 @@
 
 > cd Redes Neuronales
 > cd archivo definitivo redes neuronales python
+> busca el archivo que se llama multilayer_xor.py
 
 Si lo ejecutas por primera vez es conveniente poner el siguiente comando:
 
@@ -30,11 +31,11 @@ En el código también hay un ejemplo de una función
 
 ## Holaaaa!!
 
-- 🔭 s
-- 🌱 s
-- 👯 s
-- 🥅 s
-- ⚡ s
+- 🔭 Cualquier sugerencia o mejora escribe a este mail: ballware24@gmail.com
+- 🌱 Visita mi SHOUTUBE PARA APRENDER LO QUE HICE AKI XD: https://www.youtube.com/channel/UCeW0S9_GBxk4jLFAlafStsw
+- 👯 AVISO: NO SOY UN EXPERTO EN REDES NEURONALES. APRENDÍ LO MÁS IMPORTANTE Y QUERÍA, COMO FORMA DE PROFUNDIZAR EN EL APRENDIZAJE, ENSEÑAR A OTROS JEJE. NO HATE 
+- 🥅 DISCORD PARA DUDAS U OTRAS COSAS: https://discord.com/invite/DCzV7dFP64
+- 🏀 
 
 ## Redes:
 
