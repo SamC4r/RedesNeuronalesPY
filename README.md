@@ -8,15 +8,15 @@
 
 > cd Redes Neuronales
 
-> cd archivo definitivo redes neuronales python
+> cd Python
 
 > busca el archivo que se llama multilayer_xor.py
 
 Si lo ejecutas por primera vez es conveniente poner el siguiente comando:
 
-> python3 multilayer_requirements.py
+> pip3 install --upgrade nombredelpaquete
 
-Para instalar los paquetes automáticamente
+Si hay errores de paquetes: "No module named..."
 
 > python3 multilayer_xor.py
 
@@ -25,6 +25,7 @@ En el código también hay un ejemplo de una función
 *** sf(x) = x^3-x #normalizada ***
 
 - Se muestra la evoloución del aprendizaje
+- Tiempo de desarrollo 1 mes y medio
 
 
 
