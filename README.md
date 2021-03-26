@@ -12,11 +12,9 @@
 
 > busca el archivo que se llama multilayer_xor.py
 
-Si lo ejecutas por primera vez es conveniente poner el siguiente comando:
+Si hay errores de paquetes: "No module named..."
 
 > pip3 install --upgrade nombredelpaquete
-
-Si hay errores de paquetes: "No module named..."
 
 > python3 multilayer_xor.py
 
