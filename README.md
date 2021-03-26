@@ -22,7 +22,7 @@ Resuelve un problema xor
 En el código también hay un ejemplo de una función 
 *** sf(x) = x^3-x #normalizada ***
 
-- Se muestra la evoloución del aprendizaje
+- Se muestra la evoloución del aprendizaje de la red
 - Tiempo de desarrollo 1 mes y medio
 
 
