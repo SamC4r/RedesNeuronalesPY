@@ -1,7 +1,7 @@
 
 ### RedesNeuronalesPY
 
-### Red Neuronal con backpropagation en python 3.8.8 64 bits
+### Red Neuronal con backpropagation en python 3.8.8 64 bits y Java
 ### Creado por Samuel Caraballo 16 años (19 marzo 2021)
 
 > git clone https://github.com/SamC4r/RedesNeuronalesPY.git
