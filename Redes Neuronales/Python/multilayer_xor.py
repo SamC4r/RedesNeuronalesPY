@@ -12,7 +12,7 @@ import keyboard
 
 
 '''
-© Creado por Samuel Caraballo Chichiraldi (16 y/o) 19 Marzo 2021 Ultima actualizacion © Xd
+Creado por Samuel Caraballo Chichiraldi (16 y/o) 19 Marzo 2021 Ultima actualizacion
 
 Red Neuronal con backpropagation en python sin numpy
 
