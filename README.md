@@ -33,7 +33,7 @@ En el código también hay un ejemplo de una función
 ## Holaaaa!!
 
 - 🔭 Cualquier sugerencia o mejora escribe a este mail: ballware24@gmail.com
-- 🌱 Visita mi SHOUTUBE PARA APRENDER LO QUE HICE AKI XD: https://www.youtube.com/channel/UCeW0S9_GBxk4jLFAlafStsw
+- 🌱 Visita mi SHOUTUBE PARA APRENDER LO QUE HICE Aquí: https://www.youtube.com/channel/UCeW0S9_GBxk4jLFAlafStsw
 - 👯 AVISO: NO SOY UN EXPERTO EN REDES NEURONALES. APRENDÍ LO MÁS IMPORTANTE Y QUERÍA, COMO FORMA DE PROFUNDIZAR EN EL APRENDIZAJE, ENSEÑAR A OTROS JEJE. NO HATE 
 - 🥅 DISCORD PARA DUDAS U OTRAS COSAS: https://discord.com/invite/DCzV7dFP64
 - 🏀 
