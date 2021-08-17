@@ -2,7 +2,7 @@
 ### RedesNeuronalesPY
 
 ### Red Neuronal con backpropagation en python 3.8.8 64 bits y Java
-### Creado por Samuel Caraballo 16 años (19 marzo 2021)
+### Creado por Samuel Caraballo Chichiraldi 16 años (19 marzo 2021)
 
 > git clone https://github.com/SamC4r/RedesNeuronalesPY.git
 
@@ -25,7 +25,7 @@ En el código también hay un ejemplo de una función
 - Se muestra la evoloución del aprendizaje de la red
 - Tiempo de desarrollo 1 mes y medio
 
-
+Samuel Caraballo Chichiraldi 
 
 
 
